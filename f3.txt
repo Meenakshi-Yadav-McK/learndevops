@@ -1,0 +1,2 @@
+first line in f3.txt file
+
